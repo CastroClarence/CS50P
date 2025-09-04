@@ -1,7 +1,7 @@
 import requests
 import sys
 
-api_key = '011cb837881e22ce2edb2874fea2d3bc01cd30af14958ae70a2010465422bc9c'
+api_key = "secret"
 
 bitcoins = sys.argv[1]
 
